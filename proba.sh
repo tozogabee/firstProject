@@ -8,4 +8,5 @@ sum=${variable}+${variable2}
 
 echo ${sum}
 
+div=${variable}/${variable2}
 
